@@ -1,7 +1,10 @@
+![logo](https://github.com/parthbilliechamp/parthbilliechamp/blob/main/Minimal%20Modern%20Elegant%20Background%20Technology%20Banner.png)
 <h1 align="center">Hi 👋, I'm Parth Champaneria</h1>
 <h3 align="center">Currently pursuing <strong>Master of Applied Computer Science</strong> from Dalhousie University, Canada.</h3>
 <h3 align="center">4 years of Industrial experience with  skills in Big Data Engineering, Data Science and Java development.</h3>
-<hr/>
+
+<img align="right" src="https://github.com/parthbilliechamp/parthbilliechamp/blob/main/github.gif?raw=true" alt="Coding" width="400">
+
 <h3> Skills </h4>
 <ul>
   <li>Spark</li>
