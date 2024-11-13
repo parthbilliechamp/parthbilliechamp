@@ -10,7 +10,7 @@
   <li>Hadoop</li>
   <li>AWS</li>
   <li>Azure</li>
-  <li>Scala</li>
+  <li>Python</li>
   <li>Data Structures</li>
 </ul>
 
